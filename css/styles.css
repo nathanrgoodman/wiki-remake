@@ -1,4 +1,9 @@
 .well {margin-left: 15%;}
 .sidenav {height: 100%; width: 160px;position: fixed; z-index: 1;top: 0;left: 0;overflow-x: hidden;padding-top: 20px; margin-top: 15%;}
 .meat {margin-left: 25%;}
-. {float: right;}
+.row {font-family: cursive;}
+.row .potato {position: relative;
+  bottom: 1229px;
+  left: 100%;
+}
+.row .meat{position: relative; bottom: 1500px;}
